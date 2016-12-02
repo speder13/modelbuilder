@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using Accord.MachineLearning;
+using Accord.MachineLearning.Bayes;
 using Accord.Imaging;
 
 namespace modelbuilder
@@ -180,7 +182,6 @@ namespace modelbuilder
         }
         public void load_model()
         {
-            string sti = Directory.GetCurrentDirectory();
             StreamReader incstream = new StreamReader("model.dat");
             List<string> datastrings = new List<string>();
             while (!incstream.EndOfStream)
@@ -189,16 +190,19 @@ namespace modelbuilder
             }
             trainingInput = new int[datastrings.Count()][];
             trainingOutput = new int[datastrings.Count()];
-            string[] temp = new string[4];
+            string[] temp4long = new string[4];  //HUSK AT LAVE PÆN !!
+            int[] temp3int = new int[3];
+            
             counter = 0;
             foreach (string linje in datastrings)
             {
-                temp = linje.Split('|');
-                MessageBox.Show(temp[0] +" "+ temp[1]);
-                trainingInput[counter][0] = int.Parse(temp[0]);
-                trainingInput[counter][1] = int.Parse(temp[1]);
-                trainingInput[counter][2] = int.Parse(temp[2]);
-                trainingOutput[counter] = int.Parse(temp[3]);
+                temp4long = linje.Split('|');
+                temp3int[0] = int.Parse(temp4long[0]);
+                temp3int[1] = int.Parse(temp4long[1]);
+                temp3int[2] = int.Parse(temp4long[2]);
+                                               
+                trainingInput[counter] = temp3int;
+                trainingOutput[counter] = int.Parse(temp4long[3]);
                 counter++;
             }
             incstream.Close();

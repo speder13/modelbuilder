@@ -20,3 +20,27 @@ C:\Users\Soren\Documents\Visual Studio 2015\Projects\modelbuilder\modelbuilder\b
 C:\Users\Soren\Documents\Visual Studio 2015\Projects\modelbuilder\modelbuilder\bin\Debug\Accord.Statistics.xml
 C:\Users\Soren\Documents\Visual Studio 2015\Projects\modelbuilder\modelbuilder\obj\Debug\modelbuilder.exe
 C:\Users\Soren\Documents\Visual Studio 2015\Projects\modelbuilder\modelbuilder\obj\Debug\modelbuilder.pdb
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.dll.config
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\modelbuilder.exe.config
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\modelbuilder.exe
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\modelbuilder.pdb
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Imaging.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.MachineLearning.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Math.Core.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Math.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Statistics.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Imaging.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.MachineLearning.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Math.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Math.Core.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.Statistics.xml
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.csprojResolveAssemblyReference.cache
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.Form1.resources
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.Properties.Resources.resources
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.csproj.GenerateResource.Cache
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.exe
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\obj\Debug\modelbuilder.pdb
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.MachineLearning.GPL.dll
+C:\Users\soren\Documents\modelbuilder\modelbuilder\modelbuilder\bin\Debug\Accord.MachineLearning.GPL.xml
