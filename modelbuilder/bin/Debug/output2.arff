@@ -1,0 +1,8 @@
+@RELATION ball
+ 
+@ATTRIBUTE whitepixels NUMERIC
+@ATTRIBUTE blobcount NUMERIC
+@ATTRIBUTE cornercount NUMERIC
+@ATTRIBUTE class {ball, empty, error}
+ 
+@DATA
